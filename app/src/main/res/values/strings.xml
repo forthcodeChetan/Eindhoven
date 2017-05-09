@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Eindhoven</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="temp_alert">this is the temp string for alerts to check the display</string>
+
+    <string name="action_Alert">Alert</string>
+    <string name="action_imgtxt">STRATUMSEIND ALERT</string>
+    <string name="action_clear">Clear All</string>
+    <string name="Url_alert">/alerts</string>
+    <string name="toast_conn_timed_out">Connection Timed Out.Problem with the network!</string>
+    <string name="app_db_version">1</string>
+</resources>

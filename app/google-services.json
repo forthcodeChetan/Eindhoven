@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "851594613335",
+    "firebase_url": "https://eindhoven-4cd18.firebaseio.com",
+    "project_id": "eindhoven-4cd18",
+    "storage_bucket": "eindhoven-4cd18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851594613335:android:38a0ae0390c1c0cd",
+        "android_client_info": {
+          "package_name": "com.forthcode.eindhoven"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "851594613335-7k8l85duk4lnmd6vefnf2gde3135f6k3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.forthcode.eindhoven",
+            "certificate_hash": "ca4b7ed8db42a43c74736b79abefc5798430cc8a"
+          }
+        },
+        {
+          "client_id": "851594613335-nm5uvlgis7g5a9mofn761o9l02m452ej.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtJfBq1K4vQBvHUNs4qldUoD9tN8QRf24"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "851594613335-nm5uvlgis7g5a9mofn761o9l02m452ej.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
